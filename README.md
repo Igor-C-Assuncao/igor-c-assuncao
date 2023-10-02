@@ -14,7 +14,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/lauragift21/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=igor-c-assuncao&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/igor-c-assuncao/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=igor-c-assuncao&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
 
