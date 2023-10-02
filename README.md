@@ -6,16 +6,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=igor-c-assuncao&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
-**Expand to view**
-<details>
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=igor-c-assuncao&show_icons=true" />
-</details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/igor-c-assuncao/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=igor-c-assuncao&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
+
+
 
 <!-- GitHub section: END -->
