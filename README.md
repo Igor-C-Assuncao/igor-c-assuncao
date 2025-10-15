@@ -3,12 +3,12 @@
 <br>
 
 ## 🚀 Sobre Mim
-Cientista de Dados e Engenheiro apaixonado por encontrar padrões e extrair valor de dados. Tenho um forte background em **Machine Learning**, **Processamento de Sinais** e **Desenvolvimento de Modelos Preditivos** para solucionar problemas complexos em setores como indústria e áudio.
+Cientista de Dados e Engenheiro apaixonado por encontrar padrões e extrair valor de dados. Tenho um background em **Machine Learning**, **Deep Learning**, **Processamento de Sinais** e **Desenvolvimento de Modelos Preditivos** para solucionar problemas complexos em setores como indústria 4.0.
 
 Busco constantemente aplicar minhas habilidades analíticas para criar soluções inovadoras e de alto impacto.
 
 - 🔭 Atualmente explorando técnicas avançadas de **Deep Learning**, **MLOps** e **Agentes Autônomos**.
-- 🌱 Aprendendo mais sobre arquiteturas de dados em nuvem (**AWS**, **Azure**).
+- 🌱 Aprendendo mais sobre arquiteturas de dados em nuvem (**AWS**, **Azure** e **GCP** ).
 - 💬 Me pergunte sobre **Manutenção Preditiva**, **Detecção de Anomalias**, **Tecnicas de imputação de dados faltantes em series temporais** ,**algoritmos de Machine Learning**, **Engenharia de Dados** e **LangChain**.
 - 📫 Como me encontrar:  [LinkedIn](www.linkedin.com/in/igor-assuncao-689450137).
 
