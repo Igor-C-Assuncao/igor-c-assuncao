@@ -10,7 +10,7 @@ Busco constantemente aplicar minhas habilidades analíticas para criar soluçõe
 - 🔭 Atualmente explorando técnicas avançadas de **Deep Learning**, **MLOps** e **Agentes Autônomos**.
 - 🌱 Aprendendo mais sobre arquiteturas de dados em nuvem (**AWS**, **Azure** e **GCP** ).
 - 💬 Me pergunte sobre **Manutenção Preditiva**, **Detecção de Anomalias**, **Tecnicas de imputação de dados faltantes em series temporais** ,**algoritmos de Machine Learning**, **Engenharia de Dados** e **LangChain**.
-- 📫 Como me encontrar:  [LinkedIn](www.linkedin.com/in/igor-assuncao-689450137).
+- 📫 Como me encontrar: [Email](igorcassimiro@live.com) | [LinkedIn](https://www.linkedin.com/in/igor-assuncao-689450137).
 
 <br>
 
