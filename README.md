@@ -3,7 +3,7 @@
 <br>
 
 ## 🚀 About Me
-**Computer Scientist** and **Research Engineer** focused on building end-to-end intelligent solutions. I bridge the gap between **Advanced Machine Learning** (Research) and **Modern Software Engineering** (Production). Currently, I'm specializing in anomaly detection for industrial assets and building scalable AI-driven SaaS platforms.
+**Computer Scientist** and **Research Engineer** focused on building end-to-end intelligent solutions. I bridge the gap between **Advanced Machine Learning** (Research) and **Modern Software Engineering** (Production). Currently, I'm specializing in anomaly detection for industrial assets.
 
 🎓 **MSc Student in Systems Engineering (UPE/POLI)** | Specialist in Data Science (PUC-Rio).
 
